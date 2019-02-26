@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\Exos\Biens\Biens\Biens\obj\Debug\Biens.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\Biens\Biens\Biens\obj\Debug\Biens.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\Biens\Biens\Biens\bin\Debug\Biens.exe.config
+C:\Users\Dell\Documents\Exos\Biens\Biens\Biens\bin\Debug\Biens.exe
+C:\Users\Dell\Documents\Exos\Biens\Biens\Biens\bin\Debug\Biens.pdb
+C:\Users\Dell\Documents\Exos\Biens\Biens\Biens\obj\Debug\Biens.exe
+C:\Users\Dell\Documents\Exos\Biens\Biens\Biens\obj\Debug\Biens.pdb
